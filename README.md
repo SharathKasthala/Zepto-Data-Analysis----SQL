@@ -179,7 +179,7 @@ This project demonstrates how SQL can transform messy, real-world e-commerce dat
 
 Clone the repository:
 ```
-git clone https://github.com/<your-username>/zepto-SQL-data-analysis-project.git
+git clone https://github.com/SharathKasthala/Zepto-Data-Analysis-SQL Project.git
 cd zepto-SQL-data-analysis-project
 ```
 - Import dataset (zepto_v2.csv) into PostgreSQL (UTF-8 format)
